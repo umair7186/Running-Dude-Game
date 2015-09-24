@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="300" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="stage1" tilewidth="16" tileheight="16">
+  <image source="../../../wamp/www/gaming project/assets/stage1.png" width="802" height="323"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0lkKAjEURNFA9u7YjqtR21kXZm2iIZJz4H4+SKBKAQAAAAAAAAAAAAAAAAAAAAAAAAAA/tWsljJPi7RMq7ROQ9qkbdqlfTqkY237pue/u5l+M73uqBWnvOWcLmlM13RL9/RIz/RK7/RJ39r2Tc9/dzP9ZnrdUSt+4Ms5mA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1qkNADAMA0BL3X+ZPvs1CwQVlNxJ5kaWEwAAAAAAAAAAAAAAAAAASOZIVmVXzvjdBqBnrwAA4J1fDQAAAAC9C/V6CI8=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="300" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKwCAMBdCA97+Xtpeqjjq01knwPcjwyRbCjwAAAAAAAAAAAAAAAAAAAAAAAAAAANhDThGlzlXnTn0ed9C8/cxMPkFeuMtMPv3W+oq/9NW3XfrqAQiMYW0=
+  </data>
+ </layer>
+</map>
